@@ -60,6 +60,8 @@ body {
 }
 
 #generateBtn {
+    margin-top: 34rem;
+    position: absolute;
     font-size: 1.4rem;
     font-family: 'Courier New', Courier, monospace;
     font-weight: normal;
@@ -82,4 +84,5 @@ body {
     position: absolute;
     margin-top: 14rem;
   }
+
 }
